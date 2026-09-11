@@ -1,7 +1,7 @@
 <div align="center">
 
 # CHARLES AERON PELAYO
-### FULL-STACK DEVELOPER & UI/UX DESIGNER
+### FULL-STACK DEVELOPER & SOFTWARE ENGINEER
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=000000&center=true&vCenter=true&width=600&height=40&lines=CRAFTING+INTUITIVE+DIGITAL+EXPERIENCES;BUILDING+SCALABLE+WEB+APPLICATIONS;PHP+%7C+LARAVEL+%7C+VUE+%7C+REACT+%7C+TYPESCRIPT)](https://git.io/typing-svg)
 
