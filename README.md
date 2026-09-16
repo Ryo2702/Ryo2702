@@ -24,10 +24,10 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="35%" align="center" valign="top">
-      <img src="./echidna_portrait.jpeg" width="100%" style="border-radius: 8px;" alt="Echidna Portrait" />
+    <td width="40%" align="center" valign="top">
+      <img src="./echidna_manga_avatar.svg" width="100%" alt="Echidna Manga Portrait SVG" />
     </td>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <blockquote>
         <em>"I am the Witch of Greed, Echidna. Knowledge... Yes, I seek all knowledge in this world. Unsatisfied with any outcome, pursuing perfection through infinite trials."</em>
       </blockquote>
