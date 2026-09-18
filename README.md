@@ -22,19 +22,26 @@
 
 ## [ CHAPTER 01 : THE SANCTUARY ]
 
-<div align="center">
-  <img src="./echidna_portrait.jpeg" width="420" alt="Echidna Manga Portrait" />
-</div>
-
-<br />
-
-> *"I am the Witch of Greed, Echidna. Knowledge... Yes, I seek all knowledge in this world. Unsatisfied with any outcome, pursuing perfection through infinite trials."*
-
-Welcome to the Sanctuary. As a **Full-Stack Developer** and **UI/UX Enthusiast**, I approach software engineering with an unquenchable thirst for learning and refinement. Just like infinite iterations of a trial, debugging and crafting seamless user experiences is a continuous journey toward perfection.
-
-- **Design Architecture**: Crafting structured, accessible visual systems and component libraries.
-- **Full-Stack Mastery**: Architecting scalable web applications using Laravel, Vue.js, React, and TypeScript.
-- **Uncompromising Quality**: Clean code, modular patterns, and constant optimization.
+<table>
+  <tr>
+    <td width="38%" align="center" valign="top">
+      <img src="./echidna_portrait.jpeg" width="100%" alt="Echidna Manga Portrait" />
+    </td>
+    <td width="62%" valign="top">
+      <blockquote>
+        <em>"I am the Witch of Greed, Echidna. Knowledge... Yes, I seek all knowledge in this world. Unsatisfied with any outcome, pursuing perfection through infinite trials."</em>
+      </blockquote>
+      <p>
+        Welcome to the Sanctuary. As a <strong>Full-Stack Developer</strong> and <strong>UI/UX Enthusiast</strong>, I approach software engineering with an unquenchable thirst for learning and refinement. Just like infinite iterations of a trial, debugging and crafting seamless user experiences is a continuous journey toward perfection.
+      </p>
+      <ul>
+        <li><strong>Design Architecture</strong>: Crafting structured, accessible visual systems and component libraries.</li>
+        <li><strong>Full-Stack Mastery</strong>: Architecting scalable web applications using Laravel, Vue.js, React, and TypeScript.</li>
+        <li><strong>Uncompromising Quality</strong>: Clean code, modular patterns, and constant optimization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -42,47 +49,46 @@ Welcome to the Sanctuary. As a **Full-Stack Developer** and **UI/UX Enthusiast**
 
 ## [ CHAPTER 02 : GRIMOIRE OF KNOWLEDGE ]
 
-<div align="center">
-
-  ### PANEL A // FRONTEND & UI
-  <p>
-    <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/DAISYUI-000000?style=for-the-badge&logo=daisyui&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/RADIX_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/REACT_QUERY-000000?style=for-the-badge&logo=reactquery&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/REACT_ROUTER-000000?style=for-the-badge&logo=react-router&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chart.js&logoColor=a855f7" />
-  </p>
-
-  <br />
-
-  ### PANEL B // BACKEND & INFRA
-  <p>
-    <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/LIVEWIRE-000000?style=for-the-badge&logo=livewire&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=a855f7" />
-    <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=a855f7" />
-  </p>
-
-  <br />
-
-  <img src="./echidna_portrait2.jpeg" width="340" alt="Echidna Illustration" />
-
-</div>
+<table>
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="./echidna_portrait2.jpeg" width="100%" alt="Echidna Illustration" />
+    </td>
+    <td width="65%" valign="top">
+      <h3>PANEL A // FRONTEND &amp; UI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/DAISYUI-000000?style=for-the-badge&logo=daisyui&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/RADIX_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/REACT_QUERY-000000?style=for-the-badge&logo=reactquery&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/REACT_ROUTER-000000?style=for-the-badge&logo=react-router&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chart.js&logoColor=a855f7" />
+      </p>
+      <br />
+      <h3>PANEL B // BACKEND &amp; INFRA</h3>
+      <p>
+        <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/LIVEWIRE-000000?style=for-the-badge&logo=livewire&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=a855f7" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
