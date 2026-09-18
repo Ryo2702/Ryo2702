@@ -97,16 +97,22 @@
 ## [ CHAPTER 03 : TRIAL RECORDS & ANALYTICS ]
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&layout=compact" width="100%" alt="Top Languages" />
-  </p>
-  
+
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&layout=compact" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
   <br />
-  
-  <img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideTitle=a855f7&dates=ffffff" width="100%" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideTitle=a855f7&dates=ffffff" width="480" alt="GitHub Streak" />
+
 </div>
 
 <br />
