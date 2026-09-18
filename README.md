@@ -1,33 +1,24 @@
 <div align="center">
-
   <img src="./header_banner.svg" width="100%" alt="Charles Aeron Pelayo - Witch of Greed Archive" />
 
-  <br />
-  <br />
-
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=PURSUING+INFINITE+KNOWLEDGE;BUILDING+SCALABLE+FULL-STACK+SYSTEMS;PHP+%7C+LARAVEL+%7C+VUE+%7C+REACT+%7C+TYPESCRIPT)](https://git.io/typing-svg)
-
-  <br />
 
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
   [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:charlespelayo27@gmail.com)
   [![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=a855f7)](https://www.facebook.com/charles.lacdao.791179)
   [![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=a855f7)](https://www.tiktok.com/@aeronryo00)
-
 </div>
-
-<br />
 
 <img src="./manga_divider.svg" width="100%" alt="Divider" />
 
 ## [ CHAPTER 01 : THE SANCTUARY ]
 
-<table>
-  <tr>
-    <td width="38%" align="center" valign="top">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td width="38%" align="center" valign="top" style="border: none;">
       <img src="./echidna_portrait.jpeg" width="100%" alt="Echidna Manga Portrait" />
     </td>
-    <td width="62%" valign="top">
+    <td width="62%" valign="top" style="border: none;">
       <blockquote>
         <em>"I am the Witch of Greed, Echidna. Knowledge... Yes, I seek all knowledge in this world. Unsatisfied with any outcome, pursuing perfection through infinite trials."</em>
       </blockquote>
@@ -43,18 +34,16 @@
   </tr>
 </table>
 
-<br />
-
 <img src="./manga_divider.svg" width="100%" alt="Divider" />
 
 ## [ CHAPTER 02 : GRIMOIRE OF KNOWLEDGE ]
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="top">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td width="35%" align="center" valign="top" style="border: none;">
       <img src="./echidna_portrait2.jpeg" width="100%" alt="Echidna Illustration" />
     </td>
-    <td width="65%" valign="top">
+    <td width="65%" valign="top" style="border: none;">
       <h3>PANEL A // FRONTEND &amp; UI</h3>
       <p>
         <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=a855f7" />
@@ -70,7 +59,6 @@
         <img src="https://img.shields.io/badge/REACT_ROUTER-000000?style=for-the-badge&logo=react-router&logoColor=a855f7" />
         <img src="https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chart.js&logoColor=a855f7" />
       </p>
-      <br />
       <h3>PANEL B // BACKEND &amp; INFRA</h3>
       <p>
         <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=a855f7" />
@@ -90,55 +78,38 @@
   </tr>
 </table>
 
-<br />
-
 <img src="./manga_divider.svg" width="100%" alt="Divider" />
 
 ## [ CHAPTER 03 : TRIAL RECORDS & ANALYTICS ]
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td width="57%" align="center" valign="top" style="border: none;">
+        <img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7&hide_border=false&layout=compact" width="100%" alt="Top Languages" />
+      <td width="43%" align="center" valign="top" style="border: none;">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&layout=compact" height="195" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideTitle=a855f7&dates=ffffff" width="480" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideTitle=a855f7&dates=ffffff" width="480" alt="GitHub Streak" />
 </div>
-
-<br />
 
 <img src="./manga_divider.svg" width="100%" alt="Divider" />
 
 ## [ CHAPTER 04 : THE TEA PARTY ]
 
 <div align="center">
+  <p>You are invited to the Tea Party. Open for engineering collaborations, design consultations, and full-stack projects.</p>
 
-  You are invited to the Tea Party. Open for engineering collaborations, design consultations, and full-stack projects.
-
-  <br />
-  <br />
-
-  [![Email Direct](https://img.shields.io/badge/EMAIL-CHARLES%20AERON-000000?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:charlespelayo27@gmail.com)
-  [![LinkedIn Direct](https://img.shields.io/badge/LINKEDIN-CHARLES%20AERON-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
-
-  <br />
-  <br />
+  <p>
+    <a href="mailto:charlespelayo27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CHARLES%20AERON-000000?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email Direct" /></a>
+    <a href="https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/"><img src="https://img.shields.io/badge/LINKEDIN-CHARLES%20AERON-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn Direct" /></a>
+  </p>
 
   <img src="./echidna_landscape.jpeg" width="750" alt="Echidna Landscape Tea Party" />
 
-  <br />
-  <br />
-
-  ![](https://komarev.com/ghpvc/?username=Ryo2702&color=a855f7&style=flat-square&label=SANCTUARY+VISITORS)
-
+  <p><img src="https://komarev.com/ghpvc/?username=Ryo2702&color=a855f7&style=flat-square&label=SANCTUARY+VISITORS" alt="Visitor Counter" /></p>
 </div>
