@@ -1,118 +1,107 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 280" width="100%" height="100%">
-  <defs>
-    <style>
-      .bg { fill: #000000; }
-      .speedline { stroke: #a855f7; stroke-width: 1; opacity: 0.18; }
-      .panel-frame { stroke: #ffffff; fill: none; }
-      .panel-frame-outer { stroke: #a855f7; fill: none; }
-      .hero-title { font-family: 'Impact', 'Arial Black', sans-serif; font-weight: 900; fill: #ffffff; font-size: 46px; letter-spacing: 5px; }
-      .hero-sub { font-family: 'Courier New', Courier, monospace, sans-serif; font-weight: 800; fill: #a855f7; font-size: 16px; letter-spacing: 3px; }
-      .hero-tag { font-family: monospace; fill: #000000; font-size: 11px; font-weight: bold; letter-spacing: 2px; }
-      .kanji-bg { font-family: 'Hiragino Mincho ProN', 'MS Mincho', serif; font-weight: 900; fill: #a855f7; opacity: 0.16; font-size: 130px; }
-      .butterfly-wing { fill: #000000; stroke: #a855f7; stroke-width: 1.5; }
-      .butterfly-accent { fill: #a855f7; opacity: 0.9; }
-    </style>
+<div align="center">
 
-    <!-- Halftone Pattern -->
-    <pattern id="halftone" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.3" fill="#a855f7" opacity="0.2" />
-    </pattern>
+# CHARLES AERON PELAYO
 
-    <!-- Hatch Pattern -->
-    <pattern id="hatch" x="0" y="0" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="0" y2="8" stroke="#a855f7" stroke-width="1.2" opacity="0.3" />
-    </pattern>
-  </defs>
+### WEB DEVELOPER | SEO | WORDPRESS | GOHIGHLEVEL
 
-  <!-- Base Black Canvas -->
-  <rect width="950" height="280" class="bg" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:charlespelayo27@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/charles.lacdao.791179)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@aeronryo00)
 
-  <!-- Radial Speed Lines (Manga Focal Point) -->
-  <g>
-    <line x1="720" y1="140" x2="0" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="50" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="100" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="140" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="190" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="240" class="speedline" />
-    <line x1="720" y1="140" x2="0" y2="280" class="speedline" />
-    <line x1="720" y1="140" x2="200" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="400" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="600" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="800" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="950" y2="0" class="speedline" />
-    <line x1="720" y1="140" x2="950" y2="80" class="speedline" />
-    <line x1="720" y1="140" x2="950" y2="140" class="speedline" />
-    <line x1="720" y1="140" x2="950" y2="200" class="speedline" />
-    <line x1="720" y1="140" x2="950" y2="280" class="speedline" />
-    <line x1="720" y1="140" x2="600" y2="280" class="speedline" />
-    <line x1="720" y1="140" x2="400" y2="280" class="speedline" />
-    <line x1="720" y1="140" x2="200" y2="280" class="speedline" />
-  </g>
+</div>
 
-  <!-- Halftone Screentone Fill -->
-  <rect x="0" y="0" width="950" height="280" fill="url(#halftone)" />
+---
 
-  <!-- Manga Panel Diagonal Line Accent -->
-  <polygon points="620,0 670,0 520,280 470,280" fill="url(#hatch)" />
+## [ 01 ] ABOUT
 
-  <!-- Background Kanji (強欲の魔女 - Witch of Greed) -->
-  <text x="910" y="195" text-anchor="end" class="kanji-bg">強欲の魔女</text>
+**Charles Aeron Pelayo**  
+**Web Developer | SEO | WordPress | GoHighLevel**
 
-  <!-- Butterfly Swarm Line Art (Echidna Theme) -->
-  <!-- Butterfly 1 (Large Right) -->
-  <g transform="translate(680, 70) scale(1.3)">
-    <path class="butterfly-wing" d="M 30 30 Q 5 0 35 0 Q 45 20 30 30 Q 5 50 35 55 Q 45 40 30 30 Z" />
-    <path class="butterfly-wing" d="M 30 30 Q 55 0 25 0 Q 15 20 30 30 Q 55 50 25 55 Q 15 40 30 30 Z" />
-    <circle cx="30" cy="30" r="2.5" class="butterfly-accent" />
-  </g>
+I build and improve websites and digital systems with a focus on practical solutions, maintainable code, and clean implementation.
 
-  <!-- Butterfly 2 (Small Top Left) -->
-  <g transform="translate(70, 45) scale(0.8) rotate(-20)">
-    <path class="butterfly-wing" d="M 30 30 Q 5 0 35 0 Q 45 20 30 30 Q 5 50 35 55 Q 45 40 30 30 Z" />
-    <path class="butterfly-wing" d="M 30 30 Q 55 0 25 0 Q 15 20 30 30 Q 55 50 25 55 Q 15 40 30 30 Z" />
-    <circle cx="30" cy="30" r="2" class="butterfly-accent" />
-  </g>
+### FOCUS
+- Web Development
+- WordPress
+- SEO
+- GoHighLevel
 
-  <!-- Butterfly 3 (Bottom Right) -->
-  <g transform="translate(830, 180) scale(0.9) rotate(35)">
-    <path class="butterfly-wing" d="M 30 30 Q 5 0 35 0 Q 45 20 30 30 Q 5 50 35 55 Q 45 40 30 30 Z" />
-    <path class="butterfly-wing" d="M 30 30 Q 55 0 25 0 Q 15 20 30 30 Q 55 50 25 55 Q 15 40 30 30 Z" />
-    <circle cx="30" cy="30" r="2" class="butterfly-accent" />
-  </g>
+### APPROACH
+- Clean Code
+- Reusable Components
+- Responsive Interfaces
+- Maintainable Systems
+- Problem Solving
+- Practical Implementation
 
-  <!-- Outer Manga Double Border -->
-  <rect x="12" y="12" width="926" height="256" class="panel-frame-outer" stroke-width="3" />
-  <rect x="18" y="18" width="914" height="244" class="panel-frame" stroke-width="1.5" stroke-dasharray="8,4" />
+---
 
-  <!-- Badge Tag Box -->
-  <rect x="50" y="42" width="310" height="24" fill="#a855f7" />
-  <text x="60" y="58" class="hero-tag">CHAPTER 00 // RE:ZERO ARCHIVE</text>
+## [ 02 ] TECH STACK
 
-  <!-- Hero Typography Title -->
-  <text x="50" y="115" class="hero-title">CHARLES AERON PELAYO</text>
+### FRONTEND / UI
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
+![DaisyUI](https://img.shields.io/badge/DAISYUI-000000?style=for-the-badge&logo=daisyui&logoColor=ffffff)
+![Radix UI](https://img.shields.io/badge/RADIX_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=ffffff)
+![React Query](https://img.shields.io/badge/REACT_QUERY-000000?style=for-the-badge&logo=reactquery&logoColor=ffffff)
+![React Router](https://img.shields.io/badge/REACT_ROUTER-000000?style=for-the-badge&logo=react-router&logoColor=ffffff)
+![Chart.js](https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chartdotjs&logoColor=ffffff)
 
-  <!-- Subtitle -->
-  <text x="52" y="152" class="hero-sub">FULL-STACK DEVELOPER &amp; UI/UX ARCHITECT</text>
+### BACKEND / DATABASE / INFRA
+![Laravel](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff)
+![Livewire](https://img.shields.io/badge/LIVEWIRE-000000?style=for-the-badge&logo=livewire&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Nginx](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=ffffff)
+![Apache](https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=ffffff)
 
-  <!-- Manga Dialogue / Tagline Quote Box -->
-  <g transform="translate(50, 175)">
-    <rect x="0" y="0" width="540" height="42" fill="#000000" stroke="#a855f7" stroke-width="2" />
-    <text x="18" y="26" font-family="monospace" font-size="13" font-weight="bold" fill="#ffffff" letter-spacing="1">
-      "UNSATISFIED WITH ANY OUTCOME, PURSUING INFINITE TRIALS."
-    </text>
-  </g>
+---
 
-  <!-- Manga Frame Corner Brackets -->
-  <line x1="12" y1="12" x2="50" y2="12" stroke="#a855f7" stroke-width="8" />
-  <line x1="12" y1="12" x2="12" y2="50" stroke="#a855f7" stroke-width="8" />
+## [ 03 ] GITHUB ACTIVITY
 
-  <line x1="938" y1="12" x2="900" y2="12" stroke="#a855f7" stroke-width="8" />
-  <line x1="938" y1="12" x2="938" y2="50" stroke="#a855f7" stroke-width="8" />
+<div align="center">
 
-  <line x1="12" y1="268" x2="50" y2="268" stroke="#a855f7" stroke-width="8" />
-  <line x1="12" y1="268" x2="12" y2="230" stroke="#a855f7" stroke-width="8" />
+<img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
 
-  <line x1="938" y1="268" x2="900" y2="268" stroke="#a855f7" stroke-width="8" />
-  <line x1="938" y1="268" x2="938" y2="230" stroke="#a855f7" stroke-width="8" />
-</svg>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=ffffff" width="480" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## [ 04 ] SERVICES
+
+| SERVICE | DETAILS |
+|---|---|
+| WEB DEVELOPMENT | Responsive websites, frontend, backend, REST API integration, maintenance, troubleshooting |
+| WORDPRESS | Development, customization, theme updates, plugin management, maintenance |
+| SEO | On-page SEO, technical SEO, keyword research, meta optimization, site structure, internal linking |
+| GOHIGHLEVEL | CRM, landing pages, funnels, pipelines, forms, calendars, workflow automation |
+
+---
+
+## [ 05 ] WORK WITH ME
+
+I work with businesses that need support in websites, WordPress, SEO, GoHighLevel, and technical digital systems.
+
+[![Email Charles Aeron](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:charlespelayo27@gmail.com)
+[![LinkedIn Charles Aeron](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ryo2702&color=ffffff&style=flat-square&label=PROFILE+VISITORS" alt="Profile Visitors" />
+
+</div>
