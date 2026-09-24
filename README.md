@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./header_banner.svg" width="100%" alt="Charles Aeron Pelayo - Witch of Greed Archive" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=PURSUING+INFINITE+KNOWLEDGE;BUILDING+SCALABLE+FULL-STACK+SYSTEMS;PHP+%7C+LARAVEL+%7C+VUE+%7C+REACT+%7C+TYPESCRIPT)](https://git.io/typing-svg)
 
