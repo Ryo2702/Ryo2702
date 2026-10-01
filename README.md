@@ -1,115 +1,186 @@
-<div align="center">
-  <img src="./header_banner.svg" width="100%" alt="Charles Aeron Pelayo - Witch of Greed Archive" />
+# CHARLES AERON L. PELAYO
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=PURSUING+INFINITE+KNOWLEDGE;BUILDING+SCALABLE+FULL-STACK+SYSTEMS;PHP+%7C+LARAVEL+%7C+VUE+%7C+REACT+%7C+TYPESCRIPT)](https://git.io/typing-svg)
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ FREELANCE WEB DEVELOPER                                      │
+│ Practical systems. Responsive interfaces. Maintainable code. │
+└──────────────────────────────────────────────────────────────┘
+```
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
-  [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:charlespelayo27@gmail.com)
-  [![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=a855f7)](https://www.facebook.com/charles.lacdao.791179)
-  [![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=a855f7)](https://www.tiktok.com/@aeronryo00)
-</div>
+> I build practical, responsive, maintainable websites that help businesses improve their online presence.
 
-<img src="./manga_divider.svg" width="100%" alt="Divider" />
+```text
+STATUS      : Available for freelance projects
+FOCUS       : Web Development / WordPress / SEO
+LOCATION    : Philippines
+```
 
-## [ CHAPTER 01 : THE SANCTUARY ]
+────────────────────────────────────────────────────────────
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="38%" align="center" valign="top" style="border: none;">
-      <img src="./echidna_portrait.jpeg" width="100%" alt="Echidna Manga Portrait" />
-    </td>
-    <td width="62%" valign="top" style="border: none;">
-      <blockquote>
-        <em>"I am the Witch of Greed, Echidna. Knowledge... Yes, I seek all knowledge in this world. Unsatisfied with any outcome, pursuing perfection through infinite trials."</em>
-      </blockquote>
-      <p>
-        Welcome to the Sanctuary. As a <strong>Full-Stack Developer</strong> and <strong>UI/UX Enthusiast</strong>, I approach software engineering with an unquenchable thirst for learning and refinement. Just like infinite iterations of a trial, debugging and crafting seamless user experiences is a continuous journey toward perfection.
-      </p>
-      <ul>
-        <li><strong>Design Architecture</strong>: Crafting structured, accessible visual systems and component libraries.</li>
-        <li><strong>Full-Stack Mastery</strong>: Architecting scalable web applications using Laravel, Vue.js, React, and TypeScript.</li>
-        <li><strong>Uncompromising Quality</strong>: Clean code, modular patterns, and constant optimization.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## ABOUT
 
-<img src="./manga_divider.svg" width="100%" alt="Divider" />
+I build reliable web applications and websites around real business needs. My work focuses on clear interfaces, readable code, reusable components, maintainable architecture, and solid foundations for performance, user experience, and SEO.
 
-## [ CHAPTER 02 : GRIMOIRE OF KNOWLEDGE ]
+```text
+UNDERSTAND → PLAN → BUILD → TEST → IMPROVE
+```
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="35%" align="center" valign="top" style="border: none;">
-      <img src="./echidna_portrait2.jpeg" width="100%" alt="Echidna Illustration" />
-    </td>
-    <td width="65%" valign="top" style="border: none;">
-      <h3>PANEL A // FRONTEND &amp; UI</h3>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/TAILWINDCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/DAISYUI-000000?style=for-the-badge&logo=daisyui&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/RADIX_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/REACT_QUERY-000000?style=for-the-badge&logo=reactquery&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/REACT_ROUTER-000000?style=for-the-badge&logo=react-router&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/CHART.JS-000000?style=for-the-badge&logo=chart.js&logoColor=a855f7" />
-      </p>
-      <h3>PANEL B // BACKEND &amp; INFRA</h3>
-      <p>
-        <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/LIVEWIRE-000000?style=for-the-badge&logo=livewire&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/APACHE-000000?style=for-the-badge&logo=apache&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=a855f7" />
-        <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=a855f7" />
-      </p>
-    </td>
-  </tr>
-</table>
+────────────────────────────────────────────────────────────
 
-<img src="./manga_divider.svg" width="100%" alt="Divider" />
+## SERVICES
 
-## [ CHAPTER 03 : TRIAL RECORDS & ANALYTICS ]
+### 01 / WEB DEVELOPMENT
 
-<div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td width="57%" align="center" valign="top" style="border: none;">
-        <img src="https://github-readme-stats.shion.dev/api?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-      </td>
-      <td width="43%" align="center" valign="top" style="border: none;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryo2702&theme=dark&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&layout=compact" height="195" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+Custom responsive websites and web applications built around real business requirements.
 
-  <img src="https://streak-stats.demolab.com/?user=Ryo2702&theme=dark&background=000000&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideTitle=a855f7&dates=ffffff" width="480" alt="GitHub Streak" />
-</div>
+### 02 / WORDPRESS
 
-<img src="./manga_divider.svg" width="100%" alt="Divider" />
+WordPress websites, redesigns, maintenance, troubleshooting, performance improvements, and content implementation. WordPress is an area where I am actively expanding my practical experience.
 
-## [ CHAPTER 04 : THE TEA PARTY ]
+### 03 / SEO
 
-<div align="center">
-  <p>You are invited to the Tea Party. Open for engineering collaborations, design consultations, and full-stack projects.</p>
+Technical and on-page SEO foundations, including:
 
-  <p>
-    <a href="mailto:charlespelayo27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CHARLES%20AERON-000000?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email Direct" /></a>
-    <a href="https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/"><img src="https://img.shields.io/badge/LINKEDIN-CHARLES%20AERON-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn Direct" /></a>
-  </p>
+- Semantic HTML
+- Metadata
+- Heading structure
+- Internal linking
+- Image optimization and alt text
+- Sitemap foundations
+- Performance and crawlability
+- Structured content
 
-  <img src="./echidna_landscape.jpeg" width="750" alt="Echidna Landscape Tea Party" />
+────────────────────────────────────────────────────────────
 
-  <p><img src="https://komarev.com/ghpvc/?username=Ryo2702&color=a855f7&style=flat-square&label=SANCTUARY+VISITORS" alt="Visitor Counter" /></p>
-</div>
+## TECH STACK
+
+```text
+FRONTEND
+React · TypeScript · JavaScript · Vue · Tailwind CSS
+DaisyUI · shadcn/ui
+
+BACKEND
+Laravel · PHP · Node.js · Express
+
+DATABASE
+MySQL · MariaDB · PostgreSQL · SQLite
+
+TOOLS
+Git · GitHub · Linux · Vite · WordPress · Vercel · Hostinger
+```
+
+────────────────────────────────────────────────────────────
+
+## FEATURED PROJECTS
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ 01 / DOCUMENT TRACKING MANAGEMENT SYSTEM                     │
+├──────────────────────────────────────────────────────────────┤
+│ TYPE     Municipal document workflow and tracking system     │
+│ STACK    Laravel / PHP / MySQL / Tailwind / DaisyUI          │
+│ STATUS   Completed                                           │
+└──────────────────────────────────────────────────────────────┘
+```
+
+A Laravel-based system created for municipal office processes.
+
+- Document creation, forwarding, review, approval, and rejection
+- Deadline tracking and QR-based document tracking
+- Reporting, audit logs, archiving, and role-based access
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ 02 / HR PROFILING & ORGANIZATIONAL MANAGEMENT SYSTEM         │
+├──────────────────────────────────────────────────────────────┤
+│ TYPE     Internal HR and organizational platform             │
+│ STACK    Laravel / Vue / MySQL                               │
+│ STATUS   Completed project                                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+An internal platform for organizing HR records and institutional structure.
+
+- Departments, positions, and employee profiles
+- Salary grades, plantilla positions, and position history
+- Reporting and role-based access
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ 03 / STOCKPILOT AI                                           │
+├──────────────────────────────────────────────────────────────┤
+│ TYPE     Inventory operations platform concept               │
+│ STACK    React / TypeScript / Laravel / PostgreSQL           │
+│ STATUS   Concept / active exploration                        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+An inventory and operations platform concept focused on stock visibility and operational decision-making.
+
+- Inventory monitoring and low-stock alerts
+- Sales imports and CSV processing
+- Reporting and anomaly detection concepts
+- Restock recommendations
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ 04 / SALESFORCE CRM CAPSTONE                                 │
+├──────────────────────────────────────────────────────────────┤
+│ TYPE     CRM implementation project                          │
+│ STACK    Salesforce / Apex / Automation                      │
+│ STATUS   Capstone project                                    │
+└──────────────────────────────────────────────────────────────┘
+```
+
+A CRM capstone involving customer management, orders, inventory, automation flows, scheduled processes, reports, dashboards, and security configuration. This represents project-based implementation work, not a claim of production usage.
+
+────────────────────────────────────────────────────────────
+
+## DEVELOPMENT PRINCIPLES
+
+```text
+01  Solve the actual problem.
+02  Keep the interface understandable.
+03  Write code another developer can maintain.
+04  Prefer reusable systems over repeated code.
+05  Optimize only when there is something worth optimizing.
+06  Use AI as a development tool, not a substitute for understanding.
+```
+
+────────────────────────────────────────────────────────────
+
+## CURRENTLY EXPLORING
+
+```text
+[01] Advanced Laravel architecture
+[02] React + TypeScript application architecture
+[03] WordPress development
+[04] Technical SEO
+[05] Performance optimization
+[06] AI-assisted development workflows
+```
+
+────────────────────────────────────────────────────────────
+
+## CONTACT
+
+```text
+EMAIL       charlespelayo27@gmail.com
+PORTFOLIO   charlesaeron-fullstack.vercel.app
+GITHUB      github.com/Ryo2702
+```
+
+- [Email](mailto:charlespelayo27@gmail.com)
+- [Portfolio](https://charlesaeron-fullstack.vercel.app)
+- [GitHub](https://github.com/Ryo2702)
+- [LinkedIn](https://www.linkedin.com/in/charles-aeron-pelayo-b9410a286/)
+
+> Available for freelance web development projects.
+
+────────────────────────────────────────────────────────────
+
+```text
+CHARLES AERON L. PELAYO
+WEB DEVELOPER / 2026
+────────────────────────────────────────────────────────────
+```
