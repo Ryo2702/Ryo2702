@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128" role="img" aria-labelledby="title">
+  <title id="title">Understand → Plan → Build → Test → Improve</title>
+  <style>
+    text { font-family: 'Courier New', monospace; fill: #fff; }
+    .tile { animation: ink 8s steps(1, end) infinite; }
+    .step { animation: ink 10s steps(1, end) infinite; }
+    @keyframes ink { 0%, 70%, 100% { opacity: 1; } 35%, 55% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .tile, .step { animation: none; } }
+  </style>
+  <rect width="960" height="128" fill="#000"/>
+  <rect x="1" y="1" width="958" height="126" fill="none" stroke="#fff" stroke-width="2"/>
+  
+  <path d="M0 0V128" stroke="#fff"/>
+  <text x="20" y="37" font-size="14">01</text>
+  <rect class="step" x="150" y="23" width="20" height="20" fill="#fff" style="animation-delay: -0s"/>
+  <text x="20" y="91" font-size="21" font-weight="700">UNDERSTAND</text>
+
+  <path d="M192 0V128" stroke="#fff"/>
+  <text x="212" y="37" font-size="14">02</text>
+  <rect class="step" x="342" y="23" width="20" height="20" fill="#fff" style="animation-delay: -2s"/>
+  <text x="212" y="91" font-size="21" font-weight="700">PLAN</text>
+
+  <path d="M384 0V128" stroke="#fff"/>
+  <text x="404" y="37" font-size="14">03</text>
+  <rect class="step" x="534" y="23" width="20" height="20" fill="#fff" style="animation-delay: -4s"/>
+  <text x="404" y="91" font-size="21" font-weight="700">BUILD</text>
+
+  <path d="M576 0V128" stroke="#fff"/>
+  <text x="596" y="37" font-size="14">04</text>
+  <rect class="step" x="726" y="23" width="20" height="20" fill="#fff" style="animation-delay: -6s"/>
+  <text x="596" y="91" font-size="21" font-weight="700">TEST</text>
+
+  <path d="M768 0V128" stroke="#fff"/>
+  <text x="788" y="37" font-size="14">05</text>
+  <rect class="step" x="918" y="23" width="20" height="20" fill="#fff" style="animation-delay: -8s"/>
+  <text x="788" y="91" font-size="21" font-weight="700">IMPROVE</text>
+</svg>

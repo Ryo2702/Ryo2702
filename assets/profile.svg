@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title">
+  <title id="title">Charles Aeron L. Pelayo — freelance web developer</title>
+  <style>
+    text { font-family: 'Courier New', monospace; fill: #fff; }
+    .tile { animation: ink 8s steps(1, end) infinite; }
+    .step { animation: ink 10s steps(1, end) infinite; }
+    @keyframes ink { 0%, 70%, 100% { opacity: 1; } 35%, 55% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .tile, .step { animation: none; } }
+  </style>
+  <rect width="960" height="300" fill="#000"/>
+  <rect x="1" y="1" width="958" height="298" fill="none" stroke="#fff" stroke-width="2"/>
+  
+  <text x="32" y="48" font-size="16" letter-spacing="2">FREELANCE WEB DEVELOPER</text>
+  <path d="M32 68H668 M686 32V236 M32 254H928" stroke="#fff" fill="none"/>
+  <text x="28" y="135" font-size="64" font-weight="700" letter-spacing="-3">CHARLES</text>
+  <text x="30" y="190" font-size="46" font-weight="700" letter-spacing="-2">AERON L. PELAYO</text>
+  <text x="32" y="231" font-size="16">Practical systems. Responsive interfaces. Maintainable code.</text>
+  <text x="32" y="281" font-size="14">WEB DEVELOPER / 2026</text>
+  <text x="928" y="281" font-size="14" text-anchor="end">PHILIPPINES</text>
+<rect class="tile" x="706" y="32" width="22" height="22" fill="#fff" style="animation-delay: -0s"/>
+<rect class="tile" x="758" y="32" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="784" y="32" width="22" height="22" fill="#fff" style="animation-delay: -3s"/>
+<rect class="tile" x="862" y="32" width="22" height="22" fill="#fff" style="animation-delay: -6s"/>
+<rect class="tile" x="888" y="32" width="22" height="22" fill="#fff" style="animation-delay: -7s"/>
+<rect class="tile" x="706" y="58" width="22" height="22" fill="#fff" style="animation-delay: -1s"/>
+<rect class="tile" x="732" y="58" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="810" y="58" width="22" height="22" fill="#fff" style="animation-delay: -5s"/>
+<rect class="tile" x="836" y="58" width="22" height="22" fill="#fff" style="animation-delay: -6s"/>
+<rect class="tile" x="888" y="58" width="22" height="22" fill="#fff" style="animation-delay: -0s"/>
+<rect class="tile" x="758" y="84" width="22" height="22" fill="#fff" style="animation-delay: -4s"/>
+<rect class="tile" x="784" y="84" width="22" height="22" fill="#fff" style="animation-delay: -5s"/>
+<rect class="tile" x="836" y="84" width="22" height="22" fill="#fff" style="animation-delay: -7s"/>
+<rect class="tile" x="862" y="84" width="22" height="22" fill="#fff" style="animation-delay: -0s"/>
+<rect class="tile" x="706" y="110" width="22" height="22" fill="#fff" style="animation-delay: -3s"/>
+<rect class="tile" x="732" y="110" width="22" height="22" fill="#fff" style="animation-delay: -4s"/>
+<rect class="tile" x="784" y="110" width="22" height="22" fill="#fff" style="animation-delay: -6s"/>
+<rect class="tile" x="810" y="110" width="22" height="22" fill="#fff" style="animation-delay: -7s"/>
+<rect class="tile" x="888" y="110" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="732" y="136" width="22" height="22" fill="#fff" style="animation-delay: -5s"/>
+<rect class="tile" x="758" y="136" width="22" height="22" fill="#fff" style="animation-delay: -6s"/>
+<rect class="tile" x="836" y="136" width="22" height="22" fill="#fff" style="animation-delay: -1s"/>
+<rect class="tile" x="862" y="136" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="706" y="162" width="22" height="22" fill="#fff" style="animation-delay: -5s"/>
+<rect class="tile" x="784" y="162" width="22" height="22" fill="#fff" style="animation-delay: -0s"/>
+<rect class="tile" x="810" y="162" width="22" height="22" fill="#fff" style="animation-delay: -1s"/>
+<rect class="tile" x="862" y="162" width="22" height="22" fill="#fff" style="animation-delay: -3s"/>
+<rect class="tile" x="888" y="162" width="22" height="22" fill="#fff" style="animation-delay: -4s"/>
+<rect class="tile" x="732" y="188" width="22" height="22" fill="#fff" style="animation-delay: -7s"/>
+<rect class="tile" x="758" y="188" width="22" height="22" fill="#fff" style="animation-delay: -0s"/>
+<rect class="tile" x="810" y="188" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="836" y="188" width="22" height="22" fill="#fff" style="animation-delay: -3s"/>
+<rect class="tile" x="706" y="214" width="22" height="22" fill="#fff" style="animation-delay: -7s"/>
+<rect class="tile" x="758" y="214" width="22" height="22" fill="#fff" style="animation-delay: -1s"/>
+<rect class="tile" x="784" y="214" width="22" height="22" fill="#fff" style="animation-delay: -2s"/>
+<rect class="tile" x="862" y="214" width="22" height="22" fill="#fff" style="animation-delay: -5s"/>
+<rect class="tile" x="888" y="214" width="22" height="22" fill="#fff" style="animation-delay: -6s"/>
+</svg>

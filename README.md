@@ -1,31 +1,33 @@
+<!-- Artwork: python3 scripts/render_profile.py -->
+<p align="center">
+  <img src="assets/profile.svg" alt="" width="960">
+</p>
+
 # CHARLES AERON L. PELAYO
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ FREELANCE WEB DEVELOPER                                      │
-│ Practical systems. Responsive interfaces. Maintainable code. │
-└──────────────────────────────────────────────────────────────┘
-```
+**FREELANCE WEB DEVELOPER**
+
+Practical systems. Responsive interfaces. Maintainable code.
 
 > I build practical, responsive, maintainable websites that help businesses improve their online presence.
 
-```text
-STATUS      : Available for freelance projects
-FOCUS       : Web Development / WordPress / SEO
-LOCATION    : Philippines
-```
+| STATUS | FOCUS | LOCATION |
+| :--- | :--- | :--- |
+| Available for freelance projects | Web Development / WordPress / SEO | Philippines |
 
-────────────────────────────────────────────────────────────
+---
 
 ## ABOUT
 
 I build reliable web applications and websites around real business needs. My work focuses on clear interfaces, readable code, reusable components, maintainable architecture, and solid foundations for performance, user experience, and SEO.
 
-```text
-UNDERSTAND → PLAN → BUILD → TEST → IMPROVE
-```
+<p>
+  <img src="assets/workflow.svg" alt="" width="960">
+</p>
 
-────────────────────────────────────────────────────────────
+**UNDERSTAND → PLAN → BUILD → TEST → IMPROVE**
+
+---
 
 ## SERVICES
 
@@ -50,38 +52,28 @@ Technical and on-page SEO foundations, including:
 - Performance and crawlability
 - Structured content
 
-────────────────────────────────────────────────────────────
+---
 
 ## TECH STACK
 
-```text
-FRONTEND
-React · TypeScript · JavaScript · Vue · Tailwind CSS
-DaisyUI · shadcn/ui
+| AREA | TECHNOLOGIES |
+| :--- | :--- |
+| **FRONTEND** | React · TypeScript · JavaScript · Vue · Tailwind CSS<br>DaisyUI · shadcn/ui |
+| **BACKEND** | Laravel · PHP · Node.js · Express |
+| **DATABASE** | MySQL · MariaDB · PostgreSQL · SQLite |
+| **TOOLS** | Git · GitHub · Linux · Vite · WordPress · Vercel · Hostinger |
 
-BACKEND
-Laravel · PHP · Node.js · Express
-
-DATABASE
-MySQL · MariaDB · PostgreSQL · SQLite
-
-TOOLS
-Git · GitHub · Linux · Vite · WordPress · Vercel · Hostinger
-```
-
-────────────────────────────────────────────────────────────
+---
 
 ## FEATURED PROJECTS
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 01 / DOCUMENT TRACKING MANAGEMENT SYSTEM                     │
-├──────────────────────────────────────────────────────────────┤
-│ TYPE     Municipal document workflow and tracking system     │
-│ STACK    Laravel / PHP / MySQL / Tailwind / DaisyUI          │
-│ STATUS   Completed                                           │
-└──────────────────────────────────────────────────────────────┘
-```
+### 01 / DOCUMENT TRACKING MANAGEMENT SYSTEM
+
+| | |
+| :--- | :--- |
+| **TYPE** | Municipal document workflow and tracking system |
+| **STACK** | Laravel / PHP / MySQL / Tailwind / DaisyUI |
+| **STATUS** | Completed |
 
 A Laravel-based system created for municipal office processes.
 
@@ -89,15 +81,13 @@ A Laravel-based system created for municipal office processes.
 - Deadline tracking and QR-based document tracking
 - Reporting, audit logs, archiving, and role-based access
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 02 / HR PROFILING & ORGANIZATIONAL MANAGEMENT SYSTEM         │
-├──────────────────────────────────────────────────────────────┤
-│ TYPE     Internal HR and organizational platform             │
-│ STACK    Laravel / Vue / MySQL                               │
-│ STATUS   Completed project                                   │
-└──────────────────────────────────────────────────────────────┘
-```
+### 02 / HR PROFILING & ORGANIZATIONAL MANAGEMENT SYSTEM
+
+| | |
+| :--- | :--- |
+| **TYPE** | Internal HR and organizational platform |
+| **STACK** | Laravel / Vue / MySQL |
+| **STATUS** | Completed project |
 
 An internal platform for organizing HR records and institutional structure.
 
@@ -105,15 +95,13 @@ An internal platform for organizing HR records and institutional structure.
 - Salary grades, plantilla positions, and position history
 - Reporting and role-based access
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 03 / STOCKPILOT AI                                           │
-├──────────────────────────────────────────────────────────────┤
-│ TYPE     Inventory operations platform concept               │
-│ STACK    React / TypeScript / Laravel / PostgreSQL           │
-│ STATUS   Concept / active exploration                        │
-└──────────────────────────────────────────────────────────────┘
-```
+### 03 / STOCKPILOT AI
+
+| | |
+| :--- | :--- |
+| **TYPE** | Inventory operations platform concept |
+| **STACK** | React / TypeScript / Laravel / PostgreSQL |
+| **STATUS** | Concept / active exploration |
 
 An inventory and operations platform concept focused on stock visibility and operational decision-making.
 
@@ -122,53 +110,47 @@ An inventory and operations platform concept focused on stock visibility and ope
 - Reporting and anomaly detection concepts
 - Restock recommendations
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 04 / SALESFORCE CRM CAPSTONE                                 │
-├──────────────────────────────────────────────────────────────┤
-│ TYPE     CRM implementation project                          │
-│ STACK    Salesforce / Apex / Automation                      │
-│ STATUS   Capstone project                                    │
-└──────────────────────────────────────────────────────────────┘
-```
+### 04 / SALESFORCE CRM CAPSTONE
+
+| | |
+| :--- | :--- |
+| **TYPE** | CRM implementation project |
+| **STACK** | Salesforce / Apex / Automation |
+| **STATUS** | Capstone project |
 
 A CRM capstone involving customer management, orders, inventory, automation flows, scheduled processes, reports, dashboards, and security configuration. This represents project-based implementation work, not a claim of production usage.
 
-────────────────────────────────────────────────────────────
+---
 
 ## DEVELOPMENT PRINCIPLES
 
-```text
-01  Solve the actual problem.
-02  Keep the interface understandable.
-03  Write code another developer can maintain.
-04  Prefer reusable systems over repeated code.
-05  Optimize only when there is something worth optimizing.
-06  Use AI as a development tool, not a substitute for understanding.
-```
+1. Solve the actual problem.
+2. Keep the interface understandable.
+3. Write code another developer can maintain.
+4. Prefer reusable systems over repeated code.
+5. Optimize only when there is something worth optimizing.
+6. Use AI as a development tool, not a substitute for understanding.
 
-────────────────────────────────────────────────────────────
+---
 
 ## CURRENTLY EXPLORING
 
-```text
-[01] Advanced Laravel architecture
-[02] React + TypeScript application architecture
-[03] WordPress development
-[04] Technical SEO
-[05] Performance optimization
-[06] AI-assisted development workflows
-```
+1. Advanced Laravel architecture
+2. React + TypeScript application architecture
+3. WordPress development
+4. Technical SEO
+5. Performance optimization
+6. AI-assisted development workflows
 
-────────────────────────────────────────────────────────────
+---
 
 ## CONTACT
 
-```text
-EMAIL       charlespelayo27@gmail.com
-PORTFOLIO   charlesaeron-fullstack.vercel.app
-GITHUB      github.com/Ryo2702
-```
+| | |
+| :--- | :--- |
+| **EMAIL** | charlespelayo27@gmail.com |
+| **PORTFOLIO** | charlesaeron-fullstack.vercel.app |
+| **GITHUB** | github.com/Ryo2702 |
 
 - [Email](mailto:charlespelayo27@gmail.com)
 - [Portfolio](https://charlesaeron-fullstack.vercel.app)
@@ -177,10 +159,9 @@ GITHUB      github.com/Ryo2702
 
 > Available for freelance web development projects.
 
-────────────────────────────────────────────────────────────
+---
 
-```text
-CHARLES AERON L. PELAYO
-WEB DEVELOPER / 2026
-────────────────────────────────────────────────────────────
-```
+<p align="center">
+  <strong>CHARLES AERON L. PELAYO</strong><br>
+  <code>WEB DEVELOPER / 2026</code>
+</p>
