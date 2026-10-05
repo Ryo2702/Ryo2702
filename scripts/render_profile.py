@@ -157,7 +157,9 @@ def landscape_panel():
 
 
 def render():
-    portrait = b64encode((ROOT / 'assets' / 'subaru.webp').read_bytes()).decode('ascii')
+    portrait_bytes = (ROOT / 'assets' / 'subaru.webp').read_bytes()
+    assert len(portrait_bytes) < 100_000, 'Resize the embedded portrait before rendering'
+    portrait = b64encode(portrait_bytes).decode('ascii')
     hero = panel(370, 'Charles Aeron L. Pelayo — freelance web developer, with Subaru pixel artwork', f'''
 <rect x="32" y="36" width="292" height="26" fill="{TEXT}"/>
 <text x="42" y="54" font-size="14" letter-spacing="2" style="fill:var(--paper)">~/profile $ whoami</text>
